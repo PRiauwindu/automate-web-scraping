@@ -1,4 +1,3 @@
-Flask
-scikit-learn
-joblib
-gunicorn
+requests
+beautifulsoup4
+pandas
